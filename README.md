@@ -1,4 +1,4 @@
-# html2vec
+# html2vec (WIP)
 Vectorize HTML files and generate embeddings with structural and semantic expression
 
 # Technologies
