@@ -1,0 +1,748 @@
+{
+  "id": "d44750df-4df2-4b70-aaf2-463712985657",
+  "url": "https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop",
+  "title": "SiriSpy – iOS bug allowed apps to eavesdrop on your conversations with Siri",
+  "datePosted": "2022-10-26T23:11:57.000Z",
+  "posterName": "mnem",
+  "posterProfileUrl": "https://news.ycombinator.com/user?id=mnem",
+  "outboundLink": "https://news.ycombinator.com/item?id=33348013",
+  "platform": "hackernews",
+  "isSubContent": false,
+  "children": [
+    {
+      "id": "e3629070-7414-48f4-bac4-b9e646ffb6f9",
+      "title": "A $7,000 bounty for eavesdropping and TCC (app permissions) vulnerabilities. Insulting.",
+      "datePosted": null,
+      "posterName": "runjake",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=runjake",
+      "textContent": "A $7,000 bounty for eavesdropping and TCC (app permissions) vulnerabilities. Insulting.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "7f8481cc-10e5-45e1-84a8-f4d4649d21f9",
+      "title": "I think they burried the lede here. Conversations with Siri are probably pretty generic but being able to evesdrop on keyboard dictation is pretty severe. I know people that use dictation for the majority of their text messages and email.",
+      "datePosted": null,
+      "posterName": "freeplay",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=freeplay",
+      "textContent": "I think they burried the lede here. Conversations with Siri are probably pretty generic but being able to evesdrop on keyboard dictation is pretty severe. I know people that use dictation for the majority of their text messages and email.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [
+        {
+          "id": "0f147840-e29e-4a5c-9fa2-0e1000cf1d16",
+          "title": "Even worse, it looks like on MacOS you can just straight up start recording on-demand, no need for dictation or siri.\n> Even worse, this particular exploit would also allow the app to request DoAP audio on-demand, bypassing the need to wait for the user to talk to Siri or use dictation.\nreply",
+          "datePosted": null,
+          "posterName": "cstejerean",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=cstejerean",
+          "textContent": "Even worse, it looks like on MacOS you can just straight up start recording on-demand, no need for dictation or siri.\n> Even worse, this particular exploit would also allow the app to request DoAP audio on-demand, bypassing the need to wait for the user to talk to Siri or use dictation.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348582&goto=item%3Fid%3D33348013%2333348582",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "3303bd16-acf2-4a82-a788-d2f4539f5a36",
+          "title": "How many people use diction? I'm surprised cause I know virtually no one who uses diction, myself included.",
+          "datePosted": null,
+          "posterName": "aquajet",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=aquajet",
+          "textContent": "How many people use diction? I'm surprised cause I know virtually no one who uses diction, myself included.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [
+            {
+              "id": "df950e86-d1b5-42a3-b60a-fef380888ef8",
+              "title": "I don't for multiple reasons, not the least of which is the possibility of an exploit that leaks it. I don't trust software.",
+              "datePosted": null,
+              "posterName": "willis936",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=willis936",
+              "textContent": "I don't for multiple reasons, not the least of which is the possibility of an exploit that leaks it. I don't trust software.",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [],
+              "platform": "hackernews",
+              "isSubContent": true
+            },
+            {
+              "id": "35e96d73-b551-4536-a9f7-fd100ca24faa",
+              "title": "My mother does it because of arthritis. Constantly.",
+              "datePosted": null,
+              "posterName": "ok_dad",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=ok_dad",
+              "textContent": "My mother does it because of arthritis. Constantly.",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "c47e6608-bc0d-4e9f-81a6-014f70aa502b",
+      "title": "If an iOS app did not have \"Background App Refresh\" permission, could it still have exploited this vulnerability?\nCan physical microphones be removed from Apple devices by a repair shop, while still allowing use of wired/wireless headsets?\nWe need Purism-style hardware kill switches for microphones, cameras and radios.\nreply",
+      "datePosted": null,
+      "posterName": "walterbell",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=walterbell",
+      "textContent": "If an iOS app did not have \"Background App Refresh\" permission, could it still have exploited this vulnerability?\nCan physical microphones be removed from Apple devices by a repair shop, while still allowing use of wired/wireless headsets?\nWe need Purism-style hardware kill switches for microphones, cameras and radios.\nreply",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "outboundLink": "https://news.ycombinator.com/reply?id=33348602&goto=item%3Fid%3D33348013%2333348602",
+      "children": [
+        {
+          "id": "4fbca7c6-8bab-495e-9c15-5f5037211d39",
+          "title": "Note this Bluetooth only.",
+          "datePosted": null,
+          "posterName": "MBCook",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=MBCook",
+          "textContent": "Note this Bluetooth only.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [
+            {
+              "id": "62568870-a777-4db5-8306-6e1ceb30c5ba",
+              "title": "Yes, the question is how to permanently restrict the attack surface / time windows for audio and video surveillance attacks.",
+              "datePosted": null,
+              "posterName": "walterbell",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=walterbell",
+              "textContent": "Yes, the question is how to permanently restrict the attack surface / time windows for audio and video surveillance attacks.",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [
+                {
+                  "id": "1a478b2a-8f88-4b56-9177-970ff85eb0fb",
+                  "title": "Instead of Bluetooth defaulting to on, and re-enabling itself next day if you turn it off from the control center, I'd like for Bluetooth to default to off. You'd have to enable it from the control center, and it would disable itself after a certain period of inactivity.\nI suppose that won't happen, as it would wreck the Find Me network if it depends solely on Bluetooth.\nreply",
+                  "datePosted": null,
+                  "posterName": "ASalazarMX",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=ASalazarMX",
+                  "textContent": "Instead of Bluetooth defaulting to on, and re-enabling itself next day if you turn it off from the control center, I'd like for Bluetooth to default to off. You'd have to enable it from the control center, and it would disable itself after a certain period of inactivity.\nI suppose that won't happen, as it would wreck the Find Me network if it depends solely on Bluetooth.\nreply",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "outboundLink": "https://news.ycombinator.com/reply?id=33349976&goto=item%3Fid%3D33348013%2333349976",
+                  "children": [],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                },
+                {
+                  "id": "f0e731aa-8a3e-4032-9cd7-6550f0cfa06e",
+                  "title": "It's not really a question, hardware switches work and companies refuse to put them in so they can... shrink the profile of devices in ways that rely on rare earth minerals to an unsustainable degree when combined with the typical replacement rate.",
+                  "datePosted": null,
+                  "posterName": "dontbenebby",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=dontbenebby",
+                  "textContent": "It's not really a question, hardware switches work and companies refuse to put them in so they can... shrink the profile of devices in ways that rely on rare earth minerals to an unsustainable degree when combined with the typical replacement rate.",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "children": [],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                }
+              ],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "bb1cc1c6-16fb-4162-9e0a-0f5efbec4470",
+      "title": "\"iOS bug allowed apps to eavesdrop on your conversations with Siri\" should be \"iOS bug allowed apps to eavesdrop on your interactions with Siri and dictation over bluetooth\"",
+      "datePosted": null,
+      "posterName": "tonywastaken",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=tonywastaken",
+      "textContent": "\"iOS bug allowed apps to eavesdrop on your conversations with Siri\" should be \"iOS bug allowed apps to eavesdrop on your interactions with Siri and dictation over bluetooth\"",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "aa27c49d-5caa-4239-9632-aad17e08de44",
+      "title": "$7k feels like a paltry sum for this discovery. Rambo is doing yeoman's work.",
+      "datePosted": null,
+      "posterName": "jdelman",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=jdelman",
+      "textContent": "$7k feels like a paltry sum for this discovery. Rambo is doing yeoman's work.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "1ab29b88-d3ca-4bde-a3be-c1bfda967b9b",
+      "title": "Don't forget that iOS and macOS silently re-enable Bluetooth on every software update. https://lapcatsoftware.com/articles/bluetooth.html",
+      "datePosted": null,
+      "posterName": "lapcat",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=lapcat",
+      "textContent": "Don't forget that iOS and macOS silently re-enable Bluetooth on every software update. https://lapcatsoftware.com/articles/bluetooth.html",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "outboundLink": "https://lapcatsoftware.com/articles/bluetooth.html",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "a38faf1f-bb2e-48be-b8a8-0ef62fd945e4",
+      "title": "Is anyone else an avid iPhone user, yet also someone who never uses Siri? I've used an iPhone exclusively for the past 8 years, and I can count on one hand the number of times I've used Siri. Interestingly, the one person I know who loves using Siri is my 70yr old dad.",
+      "datePosted": null,
+      "posterName": "hazyc",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=hazyc",
+      "textContent": "Is anyone else an avid iPhone user, yet also someone who never uses Siri? I've used an iPhone exclusively for the past 8 years, and I can count on one hand the number of times I've used Siri. Interestingly, the one person I know who loves using Siri is my 70yr old dad.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [
+        {
+          "id": "052e8b09-b569-4f55-8f7c-d127578f48fe",
+          "title": "I have never enabled Siri on any device. Precisely for fear of this kind of shit, or the ones where humans are listening to the recordings that are obviously being made, and all of the other logical conclusions one can reach on how this can be abused.\nJust like HDD failures, it is not a question of if but when.\nreply",
+          "datePosted": null,
+          "posterName": "dylan604",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=dylan604",
+          "textContent": "I have never enabled Siri on any device. Precisely for fear of this kind of shit, or the ones where humans are listening to the recordings that are obviously being made, and all of the other logical conclusions one can reach on how this can be abused.\nJust like HDD failures, it is not a question of if but when.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33350247&goto=item%3Fid%3D33348013%2333350247",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "3052b186-1a4a-4e36-bd59-e9586c804a06",
+          "title": "Occasionally I ask her (it?) to set a timer or add a reminder, but mostly I don't. Siri is quite slow and frustratingly limited.\nThe other day in a hurry and driving somewhere, I ended up w/ both Apple Maps and Google Maps open, simultaneously giving me directions.\n\"Hey Siri, close Google Maps\"\n\"To close an application, swipe up from the bottom of the phone...\"\nTo paraphrase a quote from Steve Jobs, if your voice assistant asks you to touch the screen, you blew it.\nreply",
+          "datePosted": null,
+          "posterName": "dilap",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=dilap",
+          "textContent": "Occasionally I ask her (it?) to set a timer or add a reminder, but mostly I don't. Siri is quite slow and frustratingly limited.\nThe other day in a hurry and driving somewhere, I ended up w/ both Apple Maps and Google Maps open, simultaneously giving me directions.\n\"Hey Siri, close Google Maps\"\n\"To close an application, swipe up from the bottom of the phone...\"\nTo paraphrase a quote from Steve Jobs, if your voice assistant asks you to touch the screen, you blew it.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348755&goto=item%3Fid%3D33348013%2333348755",
+          "children": [
+            {
+              "id": "d506261e-f75e-45ab-9ccf-3d0e71c5573e",
+              "title": "Seconded. I get way too many \"Im sorry Dave, I just can't do that\" moments",
+              "datePosted": null,
+              "posterName": "pftburger",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=pftburger",
+              "textContent": "Seconded. I get way too many \"Im sorry Dave, I just can't do that\" moments",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [],
+              "platform": "hackernews",
+              "isSubContent": true
+            },
+            {
+              "id": "e6f41f19-6ee7-4d9d-9932-455251f5e87a",
+              "title": "It makes no sense that Siri is so stunted in what she can do.",
+              "datePosted": null,
+              "posterName": "BudaDude",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=BudaDude",
+              "textContent": "It makes no sense that Siri is so stunted in what she can do.",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [
+                {
+                  "id": "5320d784-c50e-42fc-a48f-7a08f6b726d8",
+                  "title": "No kidding! She obviously knew what was wanted, but instead of doing her fing job, she tells you how to do it yourself. She doesn't like when I tell her to F herself. I hope some of those recordings end up with Apple training.",
+                  "datePosted": null,
+                  "posterName": "z9znz",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=z9znz",
+                  "textContent": "No kidding! She obviously knew what was wanted, but instead of doing her fing job, she tells you how to do it yourself. She doesn't like when I tell her to F herself. I hope some of those recordings end up with Apple training.",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "children": [],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                }
+              ],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "3d01734e-54f1-4307-9abe-0a327dc2dba2",
+          "title": "I use Siri to set a timer. That's it. And I do it by holding my power button to activate her.\nMy only other use of Siri usually involved phrases like \"stop\", \"go away\", \"close\", \"fucking close!\", \"you stupid fcking * ** close the **** thing\" when Siri would pop up out of nowhere and interrupt whatever I was actually doing. I had it turned off, but occasionally somehow it's back on, listening.\nOther actual attempts at using it have been no better than 50% effective, so it wasn't worth the trouble. And I was speaking very clearly and articulately.\nI've observed a friend (a Googler who had Google-fied his house) have frequent useless conversations with the Google assistant, so maybe 50% is the best you can hope for. No experience with Alexa, but I'd be too scared to even turn it on; I might end up with three refrigerators delivered the next day.\nreply",
+          "datePosted": null,
+          "posterName": "z9znz",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=z9znz",
+          "textContent": "I use Siri to set a timer. That's it. And I do it by holding my power button to activate her.\nMy only other use of Siri usually involved phrases like \"stop\", \"go away\", \"close\", \"fucking close!\", \"you stupid fcking * ** close the **** thing\" when Siri would pop up out of nowhere and interrupt whatever I was actually doing. I had it turned off, but occasionally somehow it's back on, listening.\nOther actual attempts at using it have been no better than 50% effective, so it wasn't worth the trouble. And I was speaking very clearly and articulately.\nI've observed a friend (a Googler who had Google-fied his house) have frequent useless conversations with the Google assistant, so maybe 50% is the best you can hope for. No experience with Alexa, but I'd be too scared to even turn it on; I might end up with three refrigerators delivered the next day.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349862&goto=item%3Fid%3D33348013%2333349862",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "799a2447-502a-43e3-b0e1-afc69373b4a2",
+          "title": "I use Siri all the time and am half your dads age.\n“Get directions to the nearest gas station.”, “What’s the score of the Giant’s game?”, “Play Master of Puppets”, “What is 4’3” in centimeters?” And many, many more.\nreply",
+          "datePosted": null,
+          "posterName": "dfee",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=dfee",
+          "textContent": "I use Siri all the time and am half your dads age.\n“Get directions to the nearest gas station.”, “What’s the score of the Giant’s game?”, “Play Master of Puppets”, “What is 4’3” in centimeters?” And many, many more.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348680&goto=item%3Fid%3D33348013%2333348680",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "4820c427-13b1-420a-b05c-dde90ae652b0",
+          "title": "I use Siri for setting timers and reminders. It's pretty good at parsing numbers. Other than that, It hasn't been very reliable for me. Apple really needs to overhaul Siri's intelligence.",
+          "datePosted": null,
+          "posterName": "BudaDude",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=BudaDude",
+          "textContent": "I use Siri for setting timers and reminders. It's pretty good at parsing numbers. Other than that, It hasn't been very reliable for me. Apple really needs to overhaul Siri's intelligence.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "59fe0f1b-3c0f-4f8f-bc25-76fd66c92ba1",
+          "title": "I just use it in text-mode ie. Double tap siri button, type the thing I want (wake me 7am). Done.",
+          "datePosted": null,
+          "posterName": "asadlionpk",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=asadlionpk",
+          "textContent": "I just use it in text-mode ie. Double tap siri button, type the thing I want (wake me 7am). Done.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "98d43b4a-6db2-4878-994a-aa81aa0284b1",
+          "title": "My personal use as someone his 30s is mostly as a kitchen timer with a HomePod mini (not my phone), to turn on/off lights, and to occasionally toss things onto a to-do list.\nMy dad on the other hand loves his full size HomePod stereo pair and uses them frequently, almost entirely for playing music with voice commands. I think there are other things he might find it useful for but I haven't shown him those yet.\nreply",
+          "datePosted": null,
+          "posterName": "kitsunesoba",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=kitsunesoba",
+          "textContent": "My personal use as someone his 30s is mostly as a kitchen timer with a HomePod mini (not my phone), to turn on/off lights, and to occasionally toss things onto a to-do list.\nMy dad on the other hand loves his full size HomePod stereo pair and uses them frequently, almost entirely for playing music with voice commands. I think there are other things he might find it useful for but I haven't shown him those yet.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348739&goto=item%3Fid%3D33348013%2333348739",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "f2dbcfcd-eeb3-445a-b8c2-3b63e64bfd0c",
+          "title": "My trust of what Siri is capable of is laughably low but I do use it for reminders (\"Remind me on X day...\", \"Remind me in X hours...\", \"Remind me when I get home...\") and for timers. Occasionally I'll use it for unit conversions but I usually use Alexa for that since I'm in my kitchen often when I use that and it's just right there. Other than that I don't use it.",
+          "datePosted": null,
+          "posterName": "joshstrange",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=joshstrange",
+          "textContent": "My trust of what Siri is capable of is laughably low but I do use it for reminders (\"Remind me on X day...\", \"Remind me in X hours...\", \"Remind me when I get home...\") and for timers. Occasionally I'll use it for unit conversions but I usually use Alexa for that since I'm in my kitchen often when I use that and it's just right there. Other than that I don't use it.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "6a801992-55f0-4c62-9ad2-49740185e6d0",
+          "title": "You are not alone. I've been using an iPhone for over a decade now. I've had Siri turned off the entire time. I have never turned it on. I do not now, or ever, want a \"voice assistant\" or any technology that listens to me and tries to understand what I want by listening to me. I want technology that does exactly what I tell it to do and nothing more.\nSiri is a better option than the alternative \"voice assistants\" on the market, but they're all bad in my book, and I don't want any of them.\nreply",
+          "datePosted": null,
+          "posterName": "tristor",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=tristor",
+          "textContent": "You are not alone. I've been using an iPhone for over a decade now. I've had Siri turned off the entire time. I have never turned it on. I do not now, or ever, want a \"voice assistant\" or any technology that listens to me and tries to understand what I want by listening to me. I want technology that does exactly what I tell it to do and nothing more.\nSiri is a better option than the alternative \"voice assistants\" on the market, but they're all bad in my book, and I don't want any of them.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349231&goto=item%3Fid%3D33348013%2333349231",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "e19856ab-5e0e-44ab-8cf9-31f9386a04ca",
+          "title": "Siri killer apps for me are asking for factoids via my watch, and opening my garage door as I approach while driving (my building uses an app that requires multiple taps + swipes to open the garage door, using Siri makes it palatable.)",
+          "datePosted": null,
+          "posterName": "nanidin",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=nanidin",
+          "textContent": "Siri killer apps for me are asking for factoids via my watch, and opening my garage door as I approach while driving (my building uses an app that requires multiple taps + swipes to open the garage door, using Siri makes it palatable.)",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [
+            {
+              "id": "bbb7e8c1-c40f-438b-8a54-95def31266ff",
+              "title": "Are you using proprietary garage door software? Would live to have any better kind of integration there so any setup details that aren't crazy specific to some manufacturer would be interesting",
+              "datePosted": null,
+              "posterName": "gleenn",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=gleenn",
+              "textContent": "Are you using proprietary garage door software? Would live to have any better kind of integration there so any setup details that aren't crazy specific to some manufacturer would be interesting",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "children": [
+                {
+                  "id": "e21a0732-264a-48c5-a1a9-f212b456b184",
+                  "title": "My apartment building recently switched to an access control system called Brivo. It replaced a keyfob + garage door opener system with an app. Overall not the greatest as it's now difficult to get into the building if you leave your phone at home.\nMy \"integration\" with Siri is to set up an iOS shortcut and use Siri to trigger it.\nreply",
+                  "datePosted": null,
+                  "posterName": "nanidin",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=nanidin",
+                  "textContent": "My apartment building recently switched to an access control system called Brivo. It replaced a keyfob + garage door opener system with an app. Overall not the greatest as it's now difficult to get into the building if you leave your phone at home.\nMy \"integration\" with Siri is to set up an iOS shortcut and use Siri to trigger it.\nreply",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "outboundLink": "https://news.ycombinator.com/reply?id=33349724&goto=item%3Fid%3D33348013%2333349724",
+                  "children": [],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                }
+              ],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "a79414a8-1a72-409c-ae68-2287f68eb191",
+          "title": "In my experiences working on voice OS, it's boom or bust depending on the user. Some people use it rarely if ever and some people live by it, and there's little in between. I think it makes sense in most cases to view voice commands as an accessibility feature.",
+          "datePosted": null,
+          "posterName": "madrox",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=madrox",
+          "textContent": "In my experiences working on voice OS, it's boom or bust depending on the user. Some people use it rarely if ever and some people live by it, and there's little in between. I think it makes sense in most cases to view voice commands as an accessibility feature.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "8a351f19-3afa-482a-96e5-da7b3016c997",
+          "title": "Yes, I have had iPhones from the beginning and I never use Siri.",
+          "datePosted": null,
+          "posterName": "zippergz",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=zippergz",
+          "textContent": "Yes, I have had iPhones from the beginning and I never use Siri.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "869d37b8-6490-4cb6-82b7-fab95f57a441",
+          "title": "For sure. I stood in line for the original iPhone, owned every model (except the 5C) up through the 6, then an SE, X, and now an 11 Pro since it came out. I played around with Siri when it debuted, but didn't use it much. I turned it off at some point (I think it was when Apple was catching grief for keeping recordings or something like that) and haven't missed it. I'm not against it especially -- it just never really became part of my life.",
+          "datePosted": null,
+          "posterName": "aparks517",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=aparks517",
+          "textContent": "For sure. I stood in line for the original iPhone, owned every model (except the 5C) up through the 6, then an SE, X, and now an 11 Pro since it came out. I played around with Siri when it debuted, but didn't use it much. I turned it off at some point (I think it was when Apple was catching grief for keeping recordings or something like that) and haven't missed it. I'm not against it especially -- it just never really became part of my life.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "6f8112a1-f02b-47da-a45f-f41bb2bc01e9",
+          "title": "I disabled it all the day it came out.\nI briefly enabled so I could text mum to say when I was nearly home. Avoids sneaking a traffic light text. Turns out it was waaaaaaaay more distracting and time consuming to get siri to text a single word, so back into the box it went\nreply",
+          "datePosted": null,
+          "posterName": "Ntrails",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=Ntrails",
+          "textContent": "I disabled it all the day it came out.\nI briefly enabled so I could text mum to say when I was nearly home. Avoids sneaking a traffic light text. Turns out it was waaaaaaaay more distracting and time consuming to get siri to text a single word, so back into the box it went\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349090&goto=item%3Fid%3D33348013%2333349090",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "f46cc4ab-b5ee-4d0a-ab4e-733a58fcafe0",
+          "title": "> I know who loves using Siri is my 70yr old dad.\nMy mother loves using Siri, she always uses it when she wants to look things up. It seems quite useful for people who aren't proficient at typing quickly, easier to ask Siri.\nreply",
+          "datePosted": null,
+          "posterName": "TheFreim",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=TheFreim",
+          "textContent": "> I know who loves using Siri is my 70yr old dad.\nMy mother loves using Siri, she always uses it when she wants to look things up. It seems quite useful for people who aren't proficient at typing quickly, easier to ask Siri.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349053&goto=item%3Fid%3D33348013%2333349053",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "8838b746-f61f-4802-9146-3febd265ba24",
+          "title": "The first day i asked her for the weather, songs and alarms. The second day i turing tested her, asked it philosophical questions and insulted it the worst way. Yes, that was pretty much it.",
+          "datePosted": null,
+          "posterName": "lagrange77",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=lagrange77",
+          "textContent": "The first day i asked her for the weather, songs and alarms. The second day i turing tested her, asked it philosophical questions and insulted it the worst way. Yes, that was pretty much it.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "290a4e7b-9879-43dc-b0bc-b1e394844fed",
+          "title": "I use it pretty frequently, mostly to set timers, alarms, or send quick texts without getting up.",
+          "datePosted": null,
+          "posterName": "parker_mountain",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=parker_mountain",
+          "textContent": "I use it pretty frequently, mostly to set timers, alarms, or send quick texts without getting up.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "0790ded7-d31e-4bca-a963-44aa965d70a6",
+          "title": "I use it for things like 'will it rain today' or sending quick texts when I am driving.",
+          "datePosted": null,
+          "posterName": "trap_goes_hot",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=trap_goes_hot",
+          "textContent": "I use it for things like 'will it rain today' or sending quick texts when I am driving.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "18400e4f-ce32-450d-8adf-4437b83505e4",
+          "title": "The only reason I even have it enabled is because it is required for voicemail transcription.",
+          "datePosted": null,
+          "posterName": "dcdc123",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=dcdc123",
+          "textContent": "The only reason I even have it enabled is because it is required for voicemail transcription.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "833c3c03-eb93-4693-b6d3-3d99c427be42",
+      "title": "Seems like $70,000 would have been a more fair bounty. This is a really nasty bug.",
+      "datePosted": null,
+      "posterName": "henriquez",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=henriquez",
+      "textContent": "Seems like $70,000 would have been a more fair bounty. This is a really nasty bug.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [
+        {
+          "id": "fcb978f4-fff7-45cf-a50a-eddeaabec194",
+          "title": "$70,000 would have been more fair\nThere's really no basis for this beyond its reflexive repetition on messageboards. You might as well type 'million dollar logout CSRF' in every vulnerability report thread.\nreply",
+          "datePosted": null,
+          "posterName": "pvg",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=pvg",
+          "textContent": "$70,000 would have been more fair\nThere's really no basis for this beyond its reflexive repetition on messageboards. You might as well type 'million dollar logout CSRF' in every vulnerability report thread.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348995&goto=item%3Fid%3D33348013%2333348995",
+          "children": [
+            {
+              "id": "97b7c03c-dd35-4455-92b3-6bfdb8021db1",
+              "title": "Here are the listed payouts from the Apple Security Bounty program, starting at $25,000. https://developer.apple.com/security-bounty/payouts/",
+              "datePosted": null,
+              "posterName": "lapcat",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=lapcat",
+              "textContent": "Here are the listed payouts from the Apple Security Bounty program, starting at $25,000. https://developer.apple.com/security-bounty/payouts/",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "outboundLink": "https://developer.apple.com/security-bounty/payouts/",
+              "children": [
+                {
+                  "id": "aebdc141-e6a5-436f-9a29-1c492d5b0999",
+                  "title": "The closest is\n$25,000. App access to a small amount of sensitive data normally protected by a TCC prompt.\nIn this case you get a misleading prompt, the access requires additional interactions. It's a serious bug and I'm all for reporters of serious bugs getting bigger bounties from companies that have more cash than they know what to do with. But simply dropping a random number in every single one of these threads is just noise, not even advocacy or technical discussion.\nreply",
+                  "datePosted": null,
+                  "posterName": "pvg",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=pvg",
+                  "textContent": "The closest is\n$25,000. App access to a small amount of sensitive data normally protected by a TCC prompt.\nIn this case you get a misleading prompt, the access requires additional interactions. It's a serious bug and I'm all for reporters of serious bugs getting bigger bounties from companies that have more cash than they know what to do with. But simply dropping a random number in every single one of these threads is just noise, not even advocacy or technical discussion.\nreply",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "outboundLink": "https://news.ycombinator.com/reply?id=33349134&goto=item%3Fid%3D33348013%2333349134",
+                  "children": [
+                    {
+                      "id": "98c85c49-2f26-43e8-8fed-287a1e081a64",
+                      "title": "I think you missed the end of the article where any MacOS app could turn on your AirPods microphone without any permissions at all and at any time at all.",
+                      "datePosted": null,
+                      "posterName": "TheJoeMan",
+                      "posterProfileUrl": "https://news.ycombinator.com/user?id=TheJoeMan",
+                      "textContent": "I think you missed the end of the article where any MacOS app could turn on your AirPods microphone without any permissions at all and at any time at all.",
+                      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                      "children": [],
+                      "platform": "hackernews",
+                      "isSubContent": true
+                    }
+                  ],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                }
+              ],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "2ca58809-5998-4009-90b9-7231eebbb432",
+      "title": "For the love of god, stop working for peanuts. You guys in the hacker/security field are gurus. $7k for this is absolutely insulting. Do you know how much NSO charges for Pegasus? Find out how much the vuln is worth in the black market, then ask Apple double that. That's the only reasonable way to go about this. Stop doing corporations' work for peanuts! Check out how much the lawyers in those corporations make; lawyers know the value of their work.",
+      "datePosted": null,
+      "posterName": "yazzku",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=yazzku",
+      "textContent": "For the love of god, stop working for peanuts. You guys in the hacker/security field are gurus. $7k for this is absolutely insulting. Do you know how much NSO charges for Pegasus? Find out how much the vuln is worth in the black market, then ask Apple double that. That's the only reasonable way to go about this. Stop doing corporations' work for peanuts! Check out how much the lawyers in those corporations make; lawyers know the value of their work.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [
+        {
+          "id": "2b7d6992-78d9-4360-bedb-6b294fc230e0",
+          "title": "So he should have sold this? He’s always seemed like a good person to me who would do that.\nSit on it knowing others may find it and users are at risk?\nWho cares he got paid. That’s not why he did it, he found it while developing one of his apps and reported it. Good for him.\nIt’s nice Apple paid him. I can understand thinking it should have been more. But what ethical alternative is there to reporting it?\nreply",
+          "datePosted": null,
+          "posterName": "MBCook",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=MBCook",
+          "textContent": "So he should have sold this? He’s always seemed like a good person to me who would do that.\nSit on it knowing others may find it and users are at risk?\nWho cares he got paid. That’s not why he did it, he found it while developing one of his apps and reported it. Good for him.\nIt’s nice Apple paid him. I can understand thinking it should have been more. But what ethical alternative is there to reporting it?\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349068&goto=item%3Fid%3D33348013%2333349068",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "004b54db-0ce4-4eb9-adf8-147d8489d2ff",
+          "title": "> Find out how much the vuln is worth in the black market, then ask Apple double that.\nWell, because he is not a corporation, he will get jumped on by lawyers and will go to jail for blackmailing Apple.\nreply",
+          "datePosted": null,
+          "posterName": "TheLoafOfBread",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=TheLoafOfBread",
+          "textContent": "> Find out how much the vuln is worth in the black market, then ask Apple double that.\nWell, because he is not a corporation, he will get jumped on by lawyers and will go to jail for blackmailing Apple.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33349630&goto=item%3Fid%3D33348013%2333349630",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "a1d0fe9a-8738-4ac5-bea0-a3ad57f8eb5c",
+          "title": "The right amount for a security bounty is the sum of all assets covered by that vulnerability minus $1.\nThis is the only way companies will take the right processes to protect those assets.\nreply",
+          "datePosted": null,
+          "posterName": "eastbound",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=eastbound",
+          "textContent": "The right amount for a security bounty is the sum of all assets covered by that vulnerability minus $1.\nThis is the only way companies will take the right processes to protect those assets.\nreply",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "outboundLink": "https://news.ycombinator.com/reply?id=33348690&goto=item%3Fid%3D33348013%2333348690",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "02e5e649-dc25-4789-9105-26836edef3e2",
+      "title": "Sigh … I so much want Apple to get their shit together. To me it feels like software quality reached a new low.",
+      "datePosted": null,
+      "posterName": "QuackyTheDuck",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=QuackyTheDuck",
+      "textContent": "Sigh … I so much want Apple to get their shit together. To me it feels like software quality reached a new low.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [
+        {
+          "id": "eda2347d-f912-4338-9ea6-f49feb53464a",
+          "title": "There were some stubborn bad decisions that Steve Jobs stuck to (1 button mouse, windows that don't appear when you cmd-tab to them), but his Apple seemed to have better software. Since him, it really seems to have gone downhill in terms of bugs and UI consistency.",
+          "datePosted": null,
+          "posterName": "z9znz",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=z9znz",
+          "textContent": "There were some stubborn bad decisions that Steve Jobs stuck to (1 button mouse, windows that don't appear when you cmd-tab to them), but his Apple seemed to have better software. Since him, it really seems to have gone downhill in terms of bugs and UI consistency.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "d423f6fe-6dce-4f56-a015-a907674199b5",
+          "title": "Couldn't agree more. As stupid as it may be, the only reason I haven't moved to Andoid/GrapheneOS is iMessage.",
+          "datePosted": null,
+          "posterName": "freeplay",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=freeplay",
+          "textContent": "Couldn't agree more. As stupid as it may be, the only reason I haven't moved to Andoid/GrapheneOS is iMessage.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [],
+          "platform": "hackernews",
+          "isSubContent": true
+        },
+        {
+          "id": "5b9527bc-ce3f-40c4-b5a6-f138c0acf780",
+          "title": "The scary thing is it's the least bad option when it comes to overall reliability.",
+          "datePosted": null,
+          "posterName": "gw99",
+          "posterProfileUrl": "https://news.ycombinator.com/user?id=gw99",
+          "textContent": "The scary thing is it's the least bad option when it comes to overall reliability.",
+          "opUrl": "https://news.ycombinator.com/item?id=33348013",
+          "children": [
+            {
+              "id": "002d67d6-a38b-4386-9aef-c3cca9457dc2",
+              "title": "I think it depends on the phone.\nThe Google Pixel series seems pretty solid for reliability. I have a Pixel 7 Pro and it's been really good so far in terms of software and build quality. I strongly prefer it to my iPhone 13 Pro, which I'm currently selling off.\nBut iPhone vs Samsung Galaxy? iPhone wins by a mile. I never got used to the custom interface Samsung loaded onto those phones, and hated that it included Samsung-specific apps that just duplicated those already available by default on stock Android.\nreply",
+              "datePosted": null,
+              "posterName": "codalan",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=codalan",
+              "textContent": "I think it depends on the phone.\nThe Google Pixel series seems pretty solid for reliability. I have a Pixel 7 Pro and it's been really good so far in terms of software and build quality. I strongly prefer it to my iPhone 13 Pro, which I'm currently selling off.\nBut iPhone vs Samsung Galaxy? iPhone wins by a mile. I never got used to the custom interface Samsung loaded onto those phones, and hated that it included Samsung-specific apps that just duplicated those already available by default on stock Android.\nreply",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "outboundLink": "https://news.ycombinator.com/reply?id=33349052&goto=item%3Fid%3D33348013%2333349052",
+              "children": [],
+              "platform": "hackernews",
+              "isSubContent": true
+            },
+            {
+              "id": "bc65127a-8eba-4244-828d-b8fdfb39e793",
+              "title": "Ooo that's a big depends on the situation. Making only phone calls. Sure iPhones are great. Running LOB apps. Lol have fun passing that crap through apples store. Androids way easier for LOB.\nRemote MDM? Lol nightmare using apples gear. Warranty services? Also a nightmare. Fleet level warranty support? Ahahhahhaha have fun paying folks like IBM out the kazoo. No thanks.\niPhones are rock solid if you played w Fischer price toys as a kid and only ever plan to be on the public consumer end of the game, making calls and using apps someone else has decided are ok for you. Go up the line to fleet rollout or bulk purchasing/warranty work or running custom line of business apps. Ahahhahhaha have fun w apple I've done the work when I was w/ ibm, I refuse to touch it these days.\nreply",
+              "datePosted": null,
+              "posterName": "gtvwill",
+              "posterProfileUrl": "https://news.ycombinator.com/user?id=gtvwill",
+              "textContent": "Ooo that's a big depends on the situation. Making only phone calls. Sure iPhones are great. Running LOB apps. Lol have fun passing that crap through apples store. Androids way easier for LOB.\nRemote MDM? Lol nightmare using apples gear. Warranty services? Also a nightmare. Fleet level warranty support? Ahahhahhaha have fun paying folks like IBM out the kazoo. No thanks.\niPhones are rock solid if you played w Fischer price toys as a kid and only ever plan to be on the public consumer end of the game, making calls and using apps someone else has decided are ok for you. Go up the line to fleet rollout or bulk purchasing/warranty work or running custom line of business apps. Ahahhahhaha have fun w apple I've done the work when I was w/ ibm, I refuse to touch it these days.\nreply",
+              "opUrl": "https://news.ycombinator.com/item?id=33348013",
+              "outboundLink": "https://news.ycombinator.com/reply?id=33348622&goto=item%3Fid%3D33348013%2333348622",
+              "children": [
+                {
+                  "id": "557a18a3-1f67-4e77-9f78-0a3c7a46195b",
+                  "title": "What are LOB and MDM?",
+                  "datePosted": null,
+                  "posterName": "plugin-baby",
+                  "posterProfileUrl": "https://news.ycombinator.com/user?id=plugin-baby",
+                  "textContent": "What are LOB and MDM?",
+                  "opUrl": "https://news.ycombinator.com/item?id=33348013",
+                  "children": [],
+                  "platform": "hackernews",
+                  "isSubContent": true
+                }
+              ],
+              "platform": "hackernews",
+              "isSubContent": true
+            }
+          ],
+          "platform": "hackernews",
+          "isSubContent": true
+        }
+      ],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "dac151c9-17e5-4d08-9593-0925b9217989",
+      "title": "I don't want stories like this to be the reason I'm glad I switched to Graphene OS. I don't want anyone hacked or spied on.",
+      "datePosted": null,
+      "posterName": "mikece",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=mikece",
+      "textContent": "I don't want stories like this to be the reason I'm glad I switched to Graphene OS. I don't want anyone hacked or spied on.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "61690004-72f8-463a-ad7b-25fa82450546",
+      "title": "This was a feature of iOS until it was discovered. Then it was called a bug.",
+      "datePosted": null,
+      "posterName": "jalla",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=jalla",
+      "textContent": "This was a feature of iOS until it was discovered. Then it was called a bug.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    },
+    {
+      "id": "73e3838c-846e-46e8-921c-64d805d93203",
+      "title": "Unimportant bug, nobody is using voice assistants since hype has worn out cca 5 years ago.",
+      "datePosted": null,
+      "posterName": "TheLoafOfBread",
+      "posterProfileUrl": "https://news.ycombinator.com/user?id=TheLoafOfBread",
+      "textContent": "Unimportant bug, nobody is using voice assistants since hype has worn out cca 5 years ago.",
+      "opUrl": "https://news.ycombinator.com/item?id=33348013",
+      "children": [],
+      "platform": "hackernews",
+      "isSubContent": true
+    }
+  ]
+}

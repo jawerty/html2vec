@@ -1,0 +1,21 @@
+{
+  "name": "htmlvector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dagrejs/graphlib": "^2.1.4",
+    "argparse": "^2.0.1",
+    "brain.js": "^2.0.0-beta.17",
+    "cheerio": "^1.0.0-rc.12",
+    "limdu": "^0.9.4",
+    "selenium-webdriver": "^4.7.0",
+    "uuid": "^9.0.0",
+    "word2vec": "^1.1.5"
+  }
+}

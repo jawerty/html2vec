@@ -1,0 +1,9 @@
+node_modules
+html_corpus
+inputs
+test_inputs
+prediction_corpus
+tmp
+emv
+__pycache__
+.DS_Store
