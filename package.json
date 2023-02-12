@@ -13,7 +13,10 @@
     "argparse": "^2.0.1",
     "brain.js": "^2.0.0-beta.17",
     "cheerio": "^1.0.0-rc.12",
+    "csv-parser": "^3.0.0",
+    "danfojs-node": "^1.1.2",
     "limdu": "^0.9.4",
+    "machinelearn": "^2.1.5",
     "selenium-webdriver": "^4.7.0",
     "uuid": "^9.0.0",
     "word2vec": "^1.1.5"

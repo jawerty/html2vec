@@ -36,26 +36,42 @@ const fetchNodeInfo = ($, node) => {
 		"summary",
 		"time"
 	];
+	const formElementList = [
+		"select",
+		"input",
+		"button",
+		"textarea",
+		"form",
+		"label",
+		"fieldset",
+		"legend",
+		"datalist",
+		"option",
+		"output",
+		"optgroup",
+	]
+	const headerElementList = [
+		'h1',
+		'h2',
+		'h3',
+		'h4',
+		'h5',
+		'h6'
+	]
 	const id = $(node).attr('id');
 	const classes = $(node).attr('class');
 	const attributes = Object.values(node.attributes).map((attr) => attr.name)
+	
 	let dataPropCount = 0;
+	let hasAria = false;
 	if (attributes && attributes.length > 0) {
-		if (attributes.length === 1) {
-			if (attributes[0].indexOf('data-') === 0) {
-				dataPropCount++
+		for (let attribute of attributes) {
+			if (attribute.indexOf('data-') === 0) {
+				dataPropCount++;
+			} else if (!hasAria && attribute.indexOf('aria-') === 0) {
+				hasAria = true;
 			}
-
-		} else {
-			dataPropCount = attributes.reduce((prev, curr) => {
-				const prevString = (typeof prev === "string");
-				if (prevString) {
-					prev = (prev.indexOf('data-') === 0) ? 1 : 0; // start at 1 if the first class is data-
-				}
-				return prev + ((curr.indexOf('data-') === 0) ? 1 : 0);
-			});
 		}
-		
 	}
 
   	const hasText = [...node.childNodes]
@@ -69,6 +85,9 @@ const fetchNodeInfo = ($, node) => {
 		hasText,
 		isSemantic: semanticElementList.includes(node.name),
 		dataPropCount,
+		hasAria,
+		isFormElement: formElementList.includes(node.name),
+		isHeaderElement: headerElementList.includes(node.name),
 	}
 }
 

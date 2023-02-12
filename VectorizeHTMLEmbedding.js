@@ -53,13 +53,25 @@ async function run() {
 		return (nodeEmbedding.length > 0)
 	}).map((nodeEmbedding) => {
 		dimensions = nodeEmbedding.split(' ')
+		
+		// parse out the nodeId which is the first column
 		const nodeId = dimensions.shift()
 
 		// convert from string to float
 		dimensions = dimensions.map((dimension) => {
 			return parseFloat(dimension)
 		})
-		return [nodeInfo[nodeId].tagNameIndex, +nodeInfo[nodeId].hasId, +nodeInfo[nodeId].hasClass, +nodeInfo[nodeId].hasText, +nodeInfo[nodeId].isSemantic, nodeInfo[nodeId].dataPropCount,  ...dimensions]
+		// Vector format
+		return [
+			nodeInfo[nodeId].tagNameIndex, 
+			+nodeInfo[nodeId].hasId, 
+			+nodeInfo[nodeId].hasClass, 
+			+nodeInfo[nodeId].hasText, 
+			+nodeInfo[nodeId].isSemantic, 
+			+nodeInfo[nodeId].hasAria, 
+			nodeInfo[nodeId].dataPropCount,  
+			...dimensions
+		]
 	})
 
 	fs.writeFileSync(`${args.output_dir}${args.input.split('/')[args.input.split('/').length-1]}.json`, JSON.stringify({
